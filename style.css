@@ -1,0 +1,23 @@
+body {
+    background-image: url("background2.png");
+    background-size: cover;
+}
+
+.loader {
+    border: 150px;
+    border-image-source: url("newFavIcons/mstile-150x150.png");
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-image: url("newFavIcons/mstile-150x150.png");
+    animation: spin 2s linear infinite;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 250px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
