@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed0e0f9-a654-4819-91fd-420d87d018a0" name="Default Changelist" comment="" />
+    <list default="true" id="7ed0e0f9-a654-4819-91fd-420d87d018a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/NotSoBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NotSoBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rRZfMQLsDXwqy1eWfpfqHaSeLz" />
   <component name="ProjectViewState">
@@ -43,7 +51,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618940964144</updated>
-      <workItem from="1618940965193" duration="2668000" />
+      <workItem from="1618940965193" duration="3395000" />
+      <workItem from="1618992771593" duration="1147000" />
+      <workItem from="1619004707699" duration="593000" />
+      <workItem from="1619098465298" duration="2170000" />
     </task>
     <servers />
   </component>
@@ -51,6 +62,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618943674501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.9.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618943674501" />
     <state x="740" y="270" key="FileChooserDialogImpl" timestamp="1618940998003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
